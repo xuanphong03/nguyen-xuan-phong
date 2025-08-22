@@ -16,11 +16,11 @@
 
 ## 💼 Skills & Expertise
 
-- JavaScript, CSS, HTML
-- React.js, Redux/Redux Toolkit, Zustand
+- HTML, CSS, SCSS, Javascript
+- React.js, Next.js, Redux/Redux Toolkit, Zustand
 - Node.js, Nest.js
 - PostgreSQL, Prisma, Redis
-- Tailwind CSS
+- Tailwind CSS, Bootstrap, MUI
 - Git
 
 ---
@@ -38,7 +38,7 @@
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/xuanphong03/)
 - Reach out via [Email](mailto:xuanphong@example.com)
-
+- My portofilo: [Portofilo](https://portofilo-tawny.vercel.app)
 ---
 
 ## 🌟 Explore My Projects
